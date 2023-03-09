@@ -1,6 +1,7 @@
 {	
   "localizedName": "Diamantite Wall",
 	"type": "Wall",
+    "description": "Blocks enemy projectiles; quite a pretty red to boot" 
     "health": 1650,
     "size": 1,
     "armour": 25,
