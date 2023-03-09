@@ -1,6 +1,7 @@
 {
   "localizedName": "Large Diamantite Wall",
   "type": "Wall",
+  "description": "Blocks enemy projectiles; larger than the basic Diamantite wall and much stronger",
   "health": 9900,
   "size": 2,
   "armour": 25,
@@ -13,3 +14,4 @@
   "category": "defense",
   "research": "diamantite-wall"
 }
+,
