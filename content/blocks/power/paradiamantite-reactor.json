@@ -1,6 +1,6 @@
 {
-  "localizedName": "Paradiamantite reactor",
-  "description": "Uses diamantite as a primary resource to generate power. Its attention however lies in the interesting by-product it outputs... ",
+  "localizedName": "Paradiamantite Reactor",
+  "description": "Uses diamantite as a primary resource to generate power. It's true potential, however, lies in the interesting byproduct it outputs... ",
 	"type": "ConsumeGenerator",
 	"size": 6,
 	"lightColor": "FF4141",
