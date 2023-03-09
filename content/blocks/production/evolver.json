@@ -1,6 +1,7 @@
 {
   "localizedName": "Evolver",
   "description": "Mutates spores into a primal organic form via diamantite exposure.",
+  "details": "Turns spores into a horrific mutated form from the primordial ages",
   "type": "GenericCrafter",
 	"drawer": {
         "type": "DrawMulti",
